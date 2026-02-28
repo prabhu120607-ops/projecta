@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Oswald:wght@200..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --font-sans: 'DM Sans', sans-serif;
+    --font-display: 'Oswald', sans-serif;
+
+    /* Hardcoded Dark Theme for Premium Gym Vibe */
+    --background: 0 0% 3%;
+    --foreground: 0 0% 98%;
+    
+    --card: 0 0% 7%;
+    --card-foreground: 0 0% 98%;
+    
+    --popover: 0 0% 5%;
+    --popover-foreground: 0 0% 98%;
+    
+    /* Vibrant Gym Red */
+    --primary: 350 89% 50%;
+    --primary-foreground: 0 0% 100%;
+    
+    --secondary: 0 0% 12%;
+    --secondary-foreground: 0 0% 98%;
+    
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 65%;
+    
+    --accent: 350 89% 50%;
+    --accent-foreground: 0 0% 100%;
+    
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 15%;
+    --input: 0 0% 15%;
+    --ring: 350 89% 50%;
+    
+    --radius: 0.25rem; /* Sharper corners for a more aggressive, athletic look */
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-primary selection:text-white;
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    @apply uppercase tracking-tight;
+  }
+}
+
+@layer utilities {
+  .text-shadow-sm {
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+  }
+  .text-shadow-lg {
+    text-shadow: 0 4px 8px rgba(0,0,0,0.8);
+  }
+  .glass-panel {
+    @apply bg-black/40 backdrop-blur-md border border-white/10;
+  }
+}

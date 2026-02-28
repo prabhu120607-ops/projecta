@@ -1,0 +1,126 @@
+Great Prabhu 🔥
+Since you’re building this in a **vibe coding / AI website builder**, you need a **clear, structured, high-quality prompt** so the AI generates a professional gym website with proper layout, sections, branding, and SEO.
+
+Below is a **ready-to-copy powerful prompt** 👇
+
+---
+
+## ✅ COPY THIS PROMPT
+
+```
+Create a modern, professional, responsive website for a fitness center named "Fitlife Gym Guntur" located in Guntur, Andhra Pradesh, India.
+
+Business Details:
+- Name: Fitlife Gym Guntur
+- Category: Fitness Center / Gym
+- Rating: 4.9 (1,443 reviews)
+- Address: 3rd Floor, Pheonix Padmavathi, 4th Lane, Lakshmipuram, Guntur, Andhra Pradesh 522007
+- Located in: PUMA Store Building
+- Google Maps Code: 8C5P+G2 Guntur, Andhra Pradesh
+- Timings: Open – Closes 12 PM, Reopens 4 PM
+
+Website Requirements:
+Design Style:
+- Premium, energetic, modern fitness theme
+- Dark theme with black, red, and white color palette
+- Bold typography
+- High-quality gym workout images
+- Smooth animations and scroll effects
+- Fully mobile responsive
+
+Sections to Include:
+
+1. Hero Section:
+- Big motivational headline like:
+  "Transform Your Body. Transform Your Life."
+- Subheading about being one of the highest-rated gyms in Guntur
+- Call-to-action buttons: "Join Now" and "Book Free Trial"
+- Background gym image with overlay
+
+2. About Us:
+- Brief description about Fitlife Gym Guntur
+- Mention 4.9 rating and 1,443+ happy members
+- Focus on strength training, weight loss, personal transformation
+
+3. Services Section:
+- Strength Training
+- Weight Loss Programs
+- Personal Training
+- Cardio & Functional Training
+- Muscle Building Programs
+- Group Workouts
+
+4. Why Choose Us:
+- 4.9 Star Rated Gym in Guntur
+- Modern Equipment
+- Experienced Trainers
+- Friendly Environment
+- Prime Location in Lakshmipuram
+
+5. Membership Plans Section:
+- Basic Plan
+- Standard Plan
+- Premium Plan
+(Add pricing placeholders and CTA buttons)
+
+6. Testimonials:
+- Show 3–4 example member reviews
+- Highlight 4.9 rating
+
+7. Gallery:
+- Gym equipment
+- Workout sessions
+- Transformation photos
+
+8. Contact Section:
+- Address
+- Embedded Google Map
+- Contact Form (Name, Phone, Email, Message)
+- Working Hours
+
+9. Footer:
+- Quick links
+- Social media icons
+- Location
+- Copyright
+
+SEO Optimization:
+- Use keywords like:
+  "Best Gym in Guntur"
+  "Fitness Center in Lakshmipuram"
+  "Top Rated Gym in Guntur"
+- Add meta title and meta description.
+
+Technical:
+- Clean HTML, CSS, and modern design
+- Fast loading
+- Optimized for SEO
+- Mobile-first design
+
+Make the website look like a premium professional fitness brand.
+```
+
+---
+
+## 💡 Extra Tip for You (Very Important)
+
+Since you're building portfolio projects (which helps you get a job 😉), after generating:
+
+* Redesign hero section in your own style
+* Improve typography hierarchy
+* Add better spacing
+* Improve CTA contrast
+* Replace stock text with real fitness copy
+
+That way it won’t look AI-generic.
+
+---
+
+If you want, I can also:
+
+* 🔥 Write brand voice copy specifically for Fitlife
+* 🎨 Suggest logo concept
+* 📱 Give Instagram bio
+* 🧠 Help you redesign it more premium
+
+Tell me Prabhu 👌
